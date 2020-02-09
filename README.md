@@ -20,3 +20,7 @@ This application does the following:
 6. The student should be able to view their balance and pay the tuition
 
 7. To see the status of the student, we should see their name, ID, courses enrolled, and balance
+
+To execute the application, download and install eclipse on your system and copy both the files in the same folder and run it. Following output will be obtained.
+
+![](ss1.png)
